@@ -19,7 +19,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ../section2/terraform
+        working-directory: PS C:\Users\Sathwik\University\Terraform Workshop\terraform-workshop>
         # your working directory with your terraform files
     steps:
       - name: Git checkout
